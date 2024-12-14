@@ -4,7 +4,7 @@
 ![viewfinal](https://github.com/user-attachments/assets/2808f555-26ce-4a21-a0f7-3995ce34cfdb)
 )
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+
 
 - [Demo Project](https://mehdiarang.github.io/tailwind-pro/)
 

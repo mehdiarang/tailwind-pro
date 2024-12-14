@@ -1,5 +1,5 @@
 # tailwind-pro
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**My Tailwind Project**
 
 ![viewfinal](https://github.com/user-attachments/assets/2808f555-26ce-4a21-a0f7-3995ce34cfdb)
 )

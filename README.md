@@ -7,14 +7,14 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by Mehdi Arang
 
-- Created - 2022-11-26
+- Created - 2024-12-24
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - tailwind
 
 - Hooks Used : useState 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/arangfront) and [linkedin](https://www.linkedin.com/in/mehdi-arang)
